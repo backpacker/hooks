@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "ES6",
+    "rootDir": "./",
+    "outDir": "dist",
+    "moduleResolution": "node"
+  }
+}

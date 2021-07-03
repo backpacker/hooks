@@ -1,0 +1,24 @@
+{
+  "name": "@backpacker/hooks",
+  "version": "0.1.0",
+  "description": "Reusable React Native hooks",
+  "main": "./dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/tsc --project ./"
+  },
+  "keywords": [
+    "hooks",
+    "react-native"
+  ],
+  "author": "Calin Tamas <calintamas2@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/react": "^17.0.5",
+    "@types/react-native": "^0.64.5",
+    "@types/react-test-renderer": "^17.0.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.4"
+  }
+}
